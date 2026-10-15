@@ -1,31 +1,143 @@
 # Sahil Gaikwad — Data Analytics & Machine Learning Portfolio
 
-A portfolio landing page for selected projects in data analytics, business intelligence, data science, and machine learning.
+> Portfolio index for selected projects in data analytics, business intelligence, data science, and machine learning.
 
-## How to explore this portfolio
+![Status](https://img.shields.io/badge/Status-Portfolio--Project-blue)
 
-1. Start with [Superstore Sales & Performance Analysis](https://github.com/sahil2003-ai/Superstore-Sales-Performance-Analysis) for SQL and Power BI.
-2. Review [HR Attrition Analysis](https://github.com/sahil2003-ai/HR-Attrition-Analysis) for HR KPIs and workforce analysis.
-3. Explore [Finance Transaction Analysis](https://github.com/sahil2003-ai/-Finance-Transaction-Analysis-Dashboard) for financial data and dashboarding.
-4. Open [Retail AI Intelligence System](https://github.com/sahil2003-ai/retail-ai-intelligence-system) for a broader analytics and ML workflow.
-5. Review [Supply Chain Risk Analytics](https://github.com/sahil2003-ai/supply-chain-risk-analytics-ml-system) for shipment-risk modelling.
-6. Visit [Sentiment Analysis](https://github.com/sahil2003-ai/sentiment-analysis) for NLP and an interactive app.
-7. Check each project README for its workflow, dataset notes, setup, screenshots, evaluation, and limitations.
+## 📌 Table of Contents
 
-## Career focus
-- Data Analyst / Business Intelligence
-- Data Science / Machine Learning
-- Applied NLP and ML applications
+- [Overview](#overview)
+- [Problem Statement](#problem-statement)
+- [Objectives](#objectives)
+- [Features](#features)
+- [Dataset](#dataset)
+- [Tech Stack](#tech-stack)
+- [Project Workflow](#project-workflow)
+- [Repository Structure](#repository-structure)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Results and Insights](#results-and-insights)
+- [Screenshots](#screenshots)
+- [Challenges and Solutions](#challenges-and-solutions)
+- [Limitations](#limitations)
+- [Future Improvements](#future-improvements)
+- [What I Learned](#what-i-learned)
+- [Author](#author)
+- [License](#license)
 
-## Tools represented across projects
-SQL, Python, Excel, Power BI, pandas, scikit-learn, XGBoost, Streamlit, and NLP libraries.
+## 📖 Overview
 
-## About
-I hold a B.Sc. in Mathematics from the University of Mumbai and am building practical experience through project-based work.
+Portfolio index for selected projects in data analytics, business intelligence, data science, and machine learning. This README documents the intended workflow and the files available in the repository. Verify all outputs against the current code and data before using them as evidence.
 
-## Contact
-- [LinkedIn](https://www.linkedin.com/in/sahil-gaikwad-a76b7224a/)
-- [GitHub](https://github.com/sahil2003-ai)
-- [Email](mailto:sahilgaikwad271@gmail.com)
+## 🎯 Problem Statement
 
-> Project findings should be interpreted using each repository's dataset, evaluation method, and stated limitations.
+Hiring teams need a quick route from a portfolio overview to projects, methods, evidence, and limitations.
+
+## 🎯 Objectives
+
+- Highlight projects relevant to entry-level analytics roles.
+- Make each project's implementation and evidence easy to inspect.
+- Keep career focus and contact information clear.
+
+## ✨ Features
+
+- Links to featured analytics and ML repositories.
+- Project workflow summaries.
+- Contact and career-focus information.
+
+## 📂 Dataset
+
+Not applicable — portfolio landing page.
+
+- **Privacy and licensing:** Check source terms and avoid publishing personal, sensitive, or restricted data.
+- **Preprocessing:** Follow the actual SQL/notebook/report implementation; do not assume cleaning steps or row counts that have not been verified.
+
+## 🛠️ Tech Stack
+
+| Technology | Purpose |
+|---|---|
+| HTML | Portfolio page |
+| Markdown | Project documentation |
+| GitHub | Hosting project source |
+
+## 🔄 Project Workflow
+
+1. Start with the featured projects most relevant to the role.
+2. Read each project's README for its problem, dataset, workflow, and limitations.
+3. Inspect the linked notebooks, dashboards, and app code.
+4. Review screenshots and results in their source repositories.
+5. Contact the author through the linked professional channels.
+
+## 🗂️ Repository Structure
+
+```text
+Sahil-Portfolio/
+├── index.html
+└── README.md
+└── README.md
+```
+
+The list above highlights known project files and folders; inspect the repository for the complete current structure.
+
+## ⚙️ Installation
+
+### Prerequisites
+
+- Install the tools listed in the Tech Stack that apply to this project.
+- For Python projects, use a Python version compatible with the dependencies actually imported by the code.
+- For Power BI projects, use Power BI Desktop.
+
+### Setup
+
+No installation required to browse the hosted portfolio. The source is available in this repository.
+
+Do not run generic commands that do not match the files in this repository. Confirm the data paths, database dialect, and package versions before execution.
+
+## ▶️ Usage
+
+Open the GitHub repository and visit the deployed portfolio if a deployment is configured.
+
+## 📊 Results and Insights
+
+### Key Findings
+
+This README is a navigation page; analytical results belong in the individual project repositories.
+
+### Evaluation
+
+For analytics projects, reconcile key totals and document metric definitions. For ML projects, report the baseline, split strategy, relevant metrics, and held-out evaluation results. Do not include unverified scores or business impact claims.
+
+## 🖼️ Screenshots
+
+No image files were confirmed for this repository during this update. If you have screenshots, upload them into an `images/` folder, then embed each real path here with a short caption. Do not use placeholder image paths.
+
+## 🧩 Challenges and Solutions
+
+| Challenge | Solution / validation approach |
+|---|---|
+| Showing multiple technical tracks clearly | Feature a small number of strong projects and organize the rest by career track. |
+
+## ⚠️ Limitations
+
+- Portfolio summaries do not independently validate project quality or metrics.
+
+## 🚀 Future Improvements
+
+- [ ] Keep featured links and screenshots current.
+- [ ] Add deployment instructions if applicable.
+- [ ] Ensure every featured project has a reproducible README.
+
+## 📚 What I Learned
+
+- Portfolio organization and technical storytelling.
+
+## 👤 Author
+
+**Sahil Gaikwad**
+
+- GitHub: [sahil2003-ai](https://github.com/sahil2003-ai)
+- LinkedIn: [Sahil Gaikwad](https://www.linkedin.com/in/sahil-gaikwad-a76b7224a/)
+
+## 📄 License
+
+Check the repository and linked project licenses.
