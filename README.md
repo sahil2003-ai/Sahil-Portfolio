@@ -1,143 +1,56 @@
-# Sahil Gaikwad — Data Analytics & Machine Learning Portfolio
+# Sahil Gaikwad — Data Science & AI/ML Portfolio
 
-> Portfolio index for selected projects in data analytics, business intelligence, data science, and machine learning.
+This repository contains the source for a personal portfolio website highlighting selected work in data analytics, business intelligence, data science, and machine learning.
 
-![Status](https://img.shields.io/badge/Status-Portfolio--Project-blue)
+## Repository contents
 
-## 📌 Table of Contents
-
-- [Overview](#overview)
-- [Problem Statement](#problem-statement)
-- [Objectives](#objectives)
-- [Features](#features)
-- [Dataset](#dataset)
-- [Tech Stack](#tech-stack)
-- [Project Workflow](#project-workflow)
-- [Repository Structure](#repository-structure)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Results and Insights](#results-and-insights)
-- [Screenshots](#screenshots)
-- [Challenges and Solutions](#challenges-and-solutions)
-- [Limitations](#limitations)
-- [Future Improvements](#future-improvements)
-- [What I Learned](#what-i-learned)
-- [Author](#author)
-- [License](#license)
-
-## 📖 Overview
-
-Portfolio index for selected projects in data analytics, business intelligence, data science, and machine learning. This README documents the intended workflow and the files available in the repository. Verify all outputs against the current code and data before using them as evidence.
-
-## 🎯 Problem Statement
-
-Hiring teams need a quick route from a portfolio overview to projects, methods, evidence, and limitations.
-
-## 🎯 Objectives
-
-- Highlight projects relevant to entry-level analytics roles.
-- Make each project's implementation and evidence easy to inspect.
-- Keep career focus and contact information clear.
-
-## ✨ Features
-
-- Links to featured analytics and ML repositories.
-- Project workflow summaries.
-- Contact and career-focus information.
-
-## 📂 Dataset
-
-Not applicable — portfolio landing page.
-
-- **Privacy and licensing:** Check source terms and avoid publishing personal, sensitive, or restricted data.
-- **Preprocessing:** Follow the actual SQL/notebook/report implementation; do not assume cleaning steps or row counts that have not been verified.
-
-## 🛠️ Tech Stack
-
-| Technology | Purpose |
+| File | Purpose |
 |---|---|
-| HTML | Portfolio page |
-| Markdown | Project documentation |
-| GitHub | Hosting project source |
+| `index.html` | Portfolio website source |
+| `README.md` | Repository documentation |
 
-## 🔄 Project Workflow
+## Featured projects
 
-1. Start with the featured projects most relevant to the role.
-2. Read each project's README for its problem, dataset, workflow, and limitations.
-3. Inspect the linked notebooks, dashboards, and app code.
-4. Review screenshots and results in their source repositories.
-5. Contact the author through the linked professional channels.
+### Analytics and business intelligence
 
-## 🗂️ Repository Structure
+- [Superstore Sales and Performance Analytics](https://github.com/sahil2003-ai/Superstore-Sales-Performance-Analysis) — SQL, Python, and Power BI analysis of retail sales and profitability.
+- [Finance Transaction Analysis Dashboard](https://github.com/sahil2003-ai/-Finance-Transaction-Analysis-Dashboard) — data profiling and transaction analysis across Python, SQL, and Power BI.
+- [HR Attrition Analysis](https://github.com/sahil2003-ai/HR-Attrition-Analysis) — workforce data exploration using Python, SQL, and Excel.
+- [Pizza Sales Analysis with SQL](https://github.com/sahil2003-ai/pizza-sales-report) — SQL views for order volume, product mix, and revenue analysis.
 
-```text
-Sahil-Portfolio/
-├── index.html
-└── README.md
-└── README.md
-```
+### Data science and machine learning
 
-The list above highlights known project files and folders; inspect the repository for the complete current structure.
+- [Retail AI Intelligence System](https://github.com/sahil2003-ai/retail-ai-intelligence-system) — retail metrics, SQL, dashboards, and demand/inventory ML workflows; README documents data-quality and leakage caveats.
+- [Supply Chain Risk Analytics ML System](https://github.com/sahil2003-ai/supply-chain-risk-analytics-ml-system) — shipment-risk analysis, SQL, model workflow, dashboard, and Streamlit app.
+- [Sentiment Analysis App](https://github.com/sahil2003-ai/sentiment-analysis) — text preprocessing, classification experiments, and an app workflow.
+- [Trader Performance vs Market Sentiment](https://github.com/sahil2003-ai/Trader_Performance_vs_Market_Sentiment_Analysis) — time-aligned market sentiment and trading-summary analysis.
+- [Apple Stock Forecasting](https://github.com/sahil2003-ai/Stock-Market-Analysis---Apple) — historical time-series data and a forecasting interface.
+- [Titanic Survival Predictor](https://github.com/sahil2003-ai/Titanic-Survival-Predictor) — supervised classification and Streamlit inference.
 
-## ⚙️ Installation
+## Technology areas represented
 
-### Prerequisites
+SQL, Python, pandas, Jupyter Notebook, Power BI, Excel, scikit-learn, XGBoost where used, Streamlit, data cleaning, EDA, KPI analysis, visualization, feature engineering, and model evaluation.
 
-- Install the tools listed in the Tech Stack that apply to this project.
-- For Python projects, use a Python version compatible with the dependencies actually imported by the code.
-- For Power BI projects, use Power BI Desktop.
+The list describes technologies present in project repositories; it is not a claim of expert proficiency in every tool.
 
-### Setup
+## Open the site locally
 
-No installation required to browse the hosted portfolio. The source is available in this repository.
+Download or clone the repository, then open `index.html` in a modern browser. No build tooling is identified in the current root file inventory.
 
-Do not run generic commands that do not match the files in this repository. Confirm the data paths, database dialect, and package versions before execution.
+A public deployment URL was not verified in this review. If GitHub Pages or another host is enabled, add its confirmed URL here.
 
-## ▶️ Usage
+## Portfolio quality principles
 
-Open the GitHub repository and visit the deployed portfolio if a deployment is configured.
+- Each project README should describe the actual files, data source, calculation methods, metrics, and limitations.
+- Numerical results should cite reproducible outputs rather than unsupported claims.
+- ML scores should be accompanied by target definitions, split strategy, baselines, and leakage checks.
+- Keep external app links and project links current.
 
-## 📊 Results and Insights
-
-### Key Findings
-
-This README is a navigation page; analytical results belong in the individual project repositories.
-
-### Evaluation
-
-For analytics projects, reconcile key totals and document metric definitions. For ML projects, report the baseline, split strategy, relevant metrics, and held-out evaluation results. Do not include unverified scores or business impact claims.
-
-## 🖼️ Screenshots
-
-No image files were confirmed for this repository during this update. If you have screenshots, upload them into an `images/` folder, then embed each real path here with a short caption. Do not use placeholder image paths.
-
-## 🧩 Challenges and Solutions
-
-| Challenge | Solution / validation approach |
-|---|---|
-| Showing multiple technical tracks clearly | Feature a small number of strong projects and organize the rest by career track. |
-
-## ⚠️ Limitations
-
-- Portfolio summaries do not independently validate project quality or metrics.
-
-## 🚀 Future Improvements
-
-- [ ] Keep featured links and screenshots current.
-- [ ] Add deployment instructions if applicable.
-- [ ] Ensure every featured project has a reproducible README.
-
-## 📚 What I Learned
-
-- Portfolio organization and technical storytelling.
-
-## 👤 Author
-
-**Sahil Gaikwad**
+## Contact
 
 - GitHub: [sahil2003-ai](https://github.com/sahil2003-ai)
 - LinkedIn: [Sahil Gaikwad](https://www.linkedin.com/in/sahil-gaikwad-a76b7224a/)
 
-## 📄 License
+## License
 
-Check the repository and linked project licenses.
+Review the repository and individual project licenses before reusing the site source or linked project datasets.
